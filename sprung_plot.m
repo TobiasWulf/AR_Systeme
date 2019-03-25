@@ -4,7 +4,7 @@
 % | File     : sprung_plot.m                                             |
 % | Title    : Unterprogramm Typ: function                               |
 % | Typ      : Source                                                    |
-% | Version  : HolyMoly-4.2 Kleborn/ Wulf                                |
+% | Version  : HolyMoly-4.2 Wulf                                         |
 % | Drawn    : 08.04.2014                                                |
 % | Checked  : 24.04.2014                                                |
 % | Released : 24.04.2014                                                |

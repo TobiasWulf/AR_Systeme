@@ -7,8 +7,7 @@
 % durch analyse des Kurvenverlaufs
 % Das Beispiel aus der Übungsaufgabensammlung der Vorlesung AR zum
 % Abschnitt Vorgabe Führungsübertragungsverhalten
-%
-% Aufgabe: WP00_FMR_01_Vorgabe_Führungsverhalten_005.pdf
+
 
 clc; clear all;
 
